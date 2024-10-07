@@ -172,7 +172,7 @@ console.log(result)
 
 //Ejercicio 13: completa el ejercicio
 
-let result2 = //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
+let result2 = num3 == num3AsString; //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
 console.log(result2)
 
 
