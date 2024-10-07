@@ -131,6 +131,13 @@ console.log(division);
 
 //Escribe tu código aquí
 
+let num = 1;
+let numero =2 ;
+
+let comparacion = num>numero;
+console.log(comparacion);
+
+
 
 
 
