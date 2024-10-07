@@ -93,6 +93,9 @@ console.log("Tipo de dato de coder:", getDataType(coder));
 
 //Escribe tu código aquí
 
+let suma =4 + 7;
+console.log(suma);
+
 
 
 
