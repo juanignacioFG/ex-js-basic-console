@@ -145,6 +145,12 @@ console.log(comparacion);
 
 //Escribe tu código aquí
 
+let nume = 1;
+let numerodos =2 ;
+
+let comparacionn = nume < numerodos;
+console.log(comparacionn);
+
 
 
 
