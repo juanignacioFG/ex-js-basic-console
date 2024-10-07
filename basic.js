@@ -2,7 +2,7 @@
 
 //En el archivo index.html que tienes abierto en el navegador (preferiblemente chrome o firefox) vamos a trabajar con la consola, abre tu inspector y en la pestaña de consola, mira si puedes ver el mensaje escrito abajo.
 
-console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
+console.log('Hola soy tu consola y juntas vamos a aprender Javascript');
 
 //Si has encontrado el mensaje puedes continuar con los ejercicios
 
@@ -18,13 +18,33 @@ console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
 
 //Escribe tu código aquí
 
-let string = ("juan ignacio fauro");
-let number = 36
-let boolean = true
-let valornulo = null
-let undefined;
-let object = { nombre :"JUAN" , edad: 36 };
-let array = [1,2,3,4,5,6,7]
+let string = "juan ignacio fauro";
+
+console.log(string);
+
+let number = 36;
+
+console.log(number);
+
+let boolean = true;
+
+console.log(boolean);
+
+let valornulo = null;
+
+console.log(valornulo);
+
+let indefinido;
+
+console.log(indefinido);
+
+let persona = { 
+    nombre :"JUAN" , 
+    edad: 36 };
+
+console.log(persona);
+let numeros = [1,2,3,4,5,6,7];
+console.log(numeros);
 
 
 
