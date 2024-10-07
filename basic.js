@@ -121,6 +121,8 @@ console.log(multiplicacion);
 
 //Escribe tu código aquí
 
+let division = 47/21;
+console.log(division);
 
 
 
