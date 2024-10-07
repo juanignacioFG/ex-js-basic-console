@@ -17,6 +17,8 @@ console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
 //Ejercicio 2: Crea una variable por los siguientes tipos de dato: string, number, boolean, null, undefined, object, array e imprímelos en la consola.
 
 //Escribe tu código aquí
+function getDataType(variables){
+   return  typeof variables;}
 
 let string = "juan ignacio fauro";
 
@@ -72,6 +74,16 @@ console.log(coder);
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
 //Escribe tu código aquí
+
+console.log("Tipo de dato de string:", getDataType(string));
+console.log("Tipo de dato de number:", getDataType(number));
+console.log("Tipo de dato de boolean:", getDataType(boolean));
+console.log("Tipo de dato de valornulo:", getDataType(valornulo));
+console.log("Tipo de dato de indefinido:", getDataType(indefinido));
+console.log("Tipo de dato de persona:", getDataType(persona));
+console.log("Tipo de dato de numeros:", getDataType(numeros));
+console.log("Tipo de dato de postres:", getDataType(postres));
+console.log("Tipo de dato de coder:", getDataType(coder));
 
 
 
