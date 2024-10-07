@@ -103,6 +103,9 @@ console.log(suma);
 
 //Escribe tu código aquí
 
+let resta = 800 - 356;
+console.log (resta);
+
 
 
 
