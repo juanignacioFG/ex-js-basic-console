@@ -61,6 +61,11 @@ console.log(postres);
 
 //Escribe tu código aquí
 
+const coder = {
+    nombre: "juan",
+    edad: 35
+};
+console.log(coder);
 
 
 
