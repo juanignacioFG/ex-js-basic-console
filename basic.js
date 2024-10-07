@@ -18,6 +18,15 @@ console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
 
 //Escribe tu código aquí
 
+let string = ("juan ignacio fauro");
+let number = 36
+let boolean = true
+let valornulo = null
+let undefined;
+let object = { nombre :"JUAN" , edad: 36 };
+let array = [1,2,3,4,5,6,7]
+
+
 
 
 
