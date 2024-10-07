@@ -114,7 +114,8 @@ console.log (resta);
 //Escribe tu código aquí
 
 
-
+let multiplicacion =34*65;
+console.log(multiplicacion);
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
